@@ -1,0 +1,5 @@
+# Local database and run logs
+database/*.db
+database/*.txt
+__pycache__/
+*.pyc
